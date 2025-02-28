@@ -1,0 +1,85 @@
+.heading {
+  margin-top: 130px;
+}
+.col-6 .form .mobilenumd {
+  font-size: 1.2em;
+  color: #424242;
+  padding: 10px;
+  border-right: 2px;
+  border-radius: 2px;
+  border: 1px solid #d1d1d1;
+}
+
+.mobilenum {
+  width: 70%;
+  font-size: 1.2em;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 2px;
+  border: 1px solid #d1d1d1;
+  box-shadow: none;
+  box-sizing: border-box;
+  border-left: none;
+  /* 
+  font-size: 1.2em;
+  line-height: 1.2em;
+  height: 45px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  border-radius: 2px;
+  box-shadow: none;
+  box-sizing: border-box;
+  margin-bottom: 20px; */
+}
+.signbtn {
+  display: inline-block;
+  padding: 10px 30px;
+  color: #555;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: white;
+  border-radius: 3px;
+  border: 1px solid #bbb;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.dematHead {
+  margin: 250px 0px 80px 0px;
+}
+.stocks-acop {
+  margin: 0px 100px 0px 0px;
+  align-items: center;
+}
+.signbtn1:hover {
+  background-color: #424242;
+}
+.stepAcc {
+  margin-top: 100px;
+}
+.stepAcc h1 {
+  margin-bottom: 80px;
+}
+.step2 {
+  margin-left: 140px;
+}
+.steps {
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  font-size: 1.2em;
+  font-size: 400;
+  /* width: 180px;
+  height: 40px;
+ */
+}
+.steps h4 {
+  margin: 0 0 0 13px;
+  font-style: italic;
+  font-weight: bolder;
+  border-bottom: 2px solid #424242;
+}

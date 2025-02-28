@@ -1,0 +1,25 @@
+.price {
+  display: flex;
+  margin-right: 50px;
+}
+
+.price1 .pricetext {
+  margin-top: 75px;
+  position: relative;
+  left: -35px;
+  font-size: 11px;
+}
+
+.price3 .pricetext3 {
+  margin-top: 75px;
+  position: relative;
+  left: -15px;
+  font-size: 11px;
+}
+.price2 .pricetext2 {
+  margin-top: 75px;
+
+  position: relative;
+  left: -20px;
+  font-size: 11px;
+}
